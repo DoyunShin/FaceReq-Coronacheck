@@ -1,3 +1,13 @@
-numpy==1.19.4
-opencv-python==3.4.2.16
-matplotlib
+Adafruit_AMG88xx
+requests
+face_recognition
+pickle
+opencv-python
+opencv-contrib-python
+numpy
+PIL
+Adafruit_AMG88xx
+thermal_image
+imutils
+pyzbar
+requests
